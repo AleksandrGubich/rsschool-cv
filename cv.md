@@ -1,11 +1,11 @@
 # Aleksandr Gubich
 ___
 ###### Contact information
--  Location  Minsk, Belarus
--  Phone  +375 44 704-62-64
--  Instagram  hey_steps_x
--  Github  AleksandrGubich
--  E-mail  a.gubich@bk.ru
+-  Location: Minsk, Belarus
+-  Phone: +375 44 704-62-64
+-  Instagram: hey_steps_x
+-  Github: AleksandrGubich
+-  E-mail: a.gubich@bk.ru
 ___
 ## About me
  Hey, everybody!
